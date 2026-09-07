@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone
+# 🎵 Spotify Clone-
 
 A simple **Spotify-inspired music player interface** built using **HTML, CSS, and minimal JavaScript**. This project focuses on recreating the look and feel of a modern music streaming platform while practicing frontend development fundamentals.
 
